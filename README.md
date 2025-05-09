@@ -2,7 +2,7 @@
 
 **Building [pgflow](https://pgflow.dev) full-time** - a Postgres-native workflow engine purpose-built for Supabase.
 
-For the last several months, I've been focused on one thing: turning Supabase primitives - **Queues** and **Edge Functions** - into a **declarative, deeply integrated orchestration layer**. pgflow lets you build reliable, multi-step, parallel logic using a type-safe TypeScript DSL, all without introducing new infrastructure.
+For the last several months, I've been focused on one thing: turning Supabase primitives - **Queues** and **Edge Functions** - into a **declarative orchestration layer built entirely on Supabase primitives**. pgflow lets you build reliable, multi-step, parallel logic using a type-safe TypeScript DSL, all without introducing new infrastructure.
 
 ---
 
@@ -16,13 +16,12 @@ For the last several months, I've been focused on one thing: turning Supabase pr
 
 ### 🚧 What I'm Building
 
-* 🚀 [pgflow](https://pgflow.dev): a SQL-native orchestration layer for Supabase projects, featuring:
-
-  - ACID-compliant, pure SQL based execution engine that orchestrates task queues (PGMQ) and workers
-  * Edge Worker - a serverless task queue worker handling execution, retries/backoffs, and concurrency control
-  * Declarative TypeScript DSL with strong DX for complex workflows
-  - CLI Tools for working with the flow definitions
-  - Client Library that uses Supabase Realtime to stream excecution status to browser (Work in progress!)
+* 🚀 [pgflow](https://pgflow.dev): a Postgres-native workflow engine featuring:
+  - ACID-compliant SQL execution engine built on top of PGMQ
+  - Serverless Edge Worker for handling task execution, retries, and concurrency
+  - Type-safe DSL in TypeScript for defining workflows
+  - CLI for managing flow definitions and migrations
+  - Realtime client library (WIP) for streaming execution state to the frontend
   - Great documentation and exceptional developer experience
 
 ---
