@@ -23,22 +23,29 @@ For the last several months, I've been focused on one thing: turning Supabase pr
   * Declarative TypeScript DSL with strong DX for complex workflows
   - CLI Tools for working with the flow definitions
   - Client Library that uses Supabase Realtime to stream excecution status to browser (Work in progress!)
-  - Great documentation and developer experience
+  - Great documentation and exceptional developer experience
 
 ---
 
 ### 🤝 Let's Collaborate
 
-I'm open to working with teams building on Supabase who want:
+I'm open to working with:
 
-* Early access to pgflow
-* Help implementing non-trivial workflows
-* Direct input into the roadmap via tight feedback loops
+* Teams building on Supabase who want:
+  * Early access to pgflow
+  * Help implementing non-trivial workflows
+  * Direct input into the roadmap via tight feedback loops
+
+* Developer tools companies focused on improving developer experience:
+  * Building intuitive, powerful developer tools
+  * Creating systems that prioritize great UX for engineers
+  * Delivering simple solutions to complex problems
 
 ---
 
 ### 💡 Interests
 
+* Developer experience and tooling - creating systems developers love to use
 * High-level system design and orchestration patterns
 * Functional programming (esp. Clojure)
 * Using relational databases as execution environments
