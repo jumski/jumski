@@ -22,7 +22,7 @@ For the last several months, I've been focused on one thing: turning Supabase pr
   - Type-safe DSL in TypeScript for defining workflows
   - CLI for managing flow definitions and migrations
   - Realtime client library (WIP) for streaming execution state to the frontend
-  - Great documentation and exceptional developer experience
+  - High-quality documentation and exceptional developer experience
 
 ---
 
@@ -48,6 +48,7 @@ I'm open to working with:
 * High-level system design and orchestration patterns
 * Functional programming (esp. Clojure)
 * Using relational databases as execution environments
+* Technical writing and documentation - crafting clear, comprehensive guides
 
 ---
 
