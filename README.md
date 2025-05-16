@@ -58,4 +58,4 @@ Let's build resilient workflows - directly in your database.
 
 ---
 
-📬 Contact: [hello@pgflow.dev](mailto:owner@pgflow.dev)
+📬 Contact: [hello@pgflow.dev](mailto:hello@pgflow.dev)
