@@ -37,8 +37,8 @@ I'm open to working with:
 
 * Developer tools companies focused on improving developer experience:
   * Building intuitive, powerful developer tools
-  * Creating systems that prioritize great UX for engineers
-  * Delivering simple solutions to complex problems
+  * Creating systems that prioritize great UX for engineers while being simple, flexible, and robust
+  * Delivering elegant solutions to complex problems
 
 ---
 
