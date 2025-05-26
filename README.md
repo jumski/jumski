@@ -52,7 +52,7 @@ I'm open to working with:
 
 ---
 
-**No CV. No LinkedIn. Just code, docs, and shipping.**
+**Open to conversations about developer experience and tooling.**
 
 Let's build resilient workflows - directly in your database.
 
