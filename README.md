@@ -54,8 +54,6 @@ I'm open to working with:
 
 **Open to conversations about developer experience and tooling.**
 
-Let's build resilient workflows - directly in your database.
-
 ---
 
 📬 Contact: [hello@pgflow.dev](mailto:hello@pgflow.dev)
