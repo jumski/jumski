@@ -12,13 +12,12 @@ Actively looking for teams who need background jobs, async processing, or workfl
 - **TypeScript/Frontend** (Deno, Node, React, SvelteKit)
 - **Ruby on Rails** (legacy modernization or greenfield projects)
 - **pgflow integration** - Build your app with built-in workflows from day one
-- Part-time engagements while I build pgflow
 
 ---
 
 ### 🔧 Background
 
-- 18 years building production-grade web systems (Ruby on Rails, APIs, databases)
+- 18 years building production-grade web systems (Ruby on Rails, TypeScript/JS, APIs, databases, queues)
 - Switched to **Supabase + TypeScript** 2 years ago to explore simpler, Postgres-first architectures
 - Obsessed with using databases as durable, expressive business logic engines
 
