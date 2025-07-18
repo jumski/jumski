@@ -1,8 +1,18 @@
 # Hi, I'm Jumski 👋
 
-**Building [pgflow](https://pgflow.dev) full-time** - a Postgres-native workflow engine purpose-built for Supabase.
+**Full-stack engineer with PostgreSQL mastery. Currently building [pgflow](https://pgflow.dev)** - a workflow engine for Supabase.
 
-For the last several months, I've been focused on one thing: turning Supabase primitives - **Queues** and **Edge Functions** - into a **declarative orchestration layer built entirely on Supabase primitives**. pgflow lets you build reliable, multi-step, parallel logic using a type-safe TypeScript DSL, all without introducing new infrastructure.
+Actively looking for teams who need background jobs, async processing, or workflow automation. I'll help you build features like email sequences, data pipelines, AI/LLM chains, human-in-the-loop approvals, or parallel processing - using pgflow to keep everything in Supabase without external infra or services.
+
+---
+
+### 🎯 Available for:
+- **PostgreSQL** (architecture, performance, business logic, schema design)
+- **Supabase** (realtime, storage, REST API, auth, Edge Functions, queues)
+- **TypeScript/Frontend** (Deno, Node, React, SvelteKit)
+- **Ruby on Rails** (legacy modernization or greenfield projects)
+- **pgflow integration** - Build your app with built-in workflows from day one
+- Part-time engagements while I build pgflow
 
 ---
 
@@ -26,19 +36,16 @@ For the last several months, I've been focused on one thing: turning Supabase pr
 
 ---
 
-### 🤝 Let's Collaborate
+### 🤝 Work with me
 
-I'm open to working with:
+I help startups and enterprises with:
 
-- Teams building on Supabase who want:
-  - Early access to pgflow
-  - Help implementing non-trivial workflows
-  - Direct input into the roadmap via tight feedback loops
+- **PostgreSQL/Supabase Architecture** - Design schemas that scale without rewrites
+- **Workflow Implementation** - Complex business logic using pgflow or custom solutions
+- **Performance Optimization** - Fix slow queries, optimize database operations
+- **Technical Leadership** - Guide teams through architectural decisions
 
-- Developer tools companies focused on improving developer experience:
-  - Building intuitive, powerful developer tools
-  - Creating systems that prioritize great UX for engineers while being simple, flexible, and robust
-  - Delivering elegant solutions to complex problems
+Perfect for teams who need senior expertise without full-time commitment.
 
 ---
 
@@ -52,8 +59,6 @@ I'm open to working with:
 
 ---
 
-**Open to conversations about developer experience and tooling.**
-
----
-
-📬 Contact: [hello@pgflow.dev](mailto:hello@pgflow.dev)
+📬 **Let's talk:** hello@jumski.dev  
+🌐 **Portfolio:** [jumski.dev](https://jumski.dev) | [pgflow.dev](https://pgflow.dev)  
+📍 **Location:** Poland (GMT+2) • Remote-only
