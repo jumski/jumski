@@ -1,6 +1,6 @@
 # Hi, I'm Jumski 👋
 
-**Full-stack engineer with PostgreSQL mastery. Currently building [pgflow](https://pgflow.dev)** - a workflow engine for Supabase.
+**Full-stack engineer available for contract work. PostgreSQL expert, TypeScript/React developer, Rails consultant. Creator of [pgflow](https://pgflow.dev)** - a workflow engine for Supabase.
 
 Actively looking for teams who need background jobs, async processing, or workflow automation. I'll help you build features like email sequences, data pipelines, AI/LLM chains, human-in-the-loop approvals, or parallel processing - using pgflow to keep everything in Supabase without external infra or services.
 
