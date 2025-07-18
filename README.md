@@ -59,5 +59,5 @@ Perfect for teams who need senior expertise without full-time commitment.
 ---
 
 📬 **Let's talk:** hello@jumski.dev  
-🌐 **Portfolio:** [jumski.dev](https://jumski.dev) | [pgflow.dev](https://pgflow.dev)  
+🌐 **Website:** [jumski.dev](https://jumski.dev) | [pgflow.dev](https://pgflow.dev)  
 📍 **Location:** Poland (GMT+2) • Remote-only
